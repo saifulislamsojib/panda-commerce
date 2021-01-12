@@ -1,0 +1,20 @@
+.carousel-slider{
+    background-color: #feeae9;
+    border-radius: 1em;
+}
+#subscribe{
+    background-color: #feeae9;
+    height: 350px;
+}
+.watch-bg{
+    background-image: linear-gradient( to right,#ff9c35,#ffd019);
+}
+.bag-bg{
+    background-image: linear-gradient( to top,#ff1771,#ff5699);
+}
+.shoes-bg{
+    background-image: linear-gradient( to top,#3f07f8,#4289ff);
+}
+.watch-bg, .bag-bg, .shoes-bg{
+    border-radius:10px;
+}
